@@ -35,14 +35,6 @@
 </div>
 
 ---
-Ключевые навыки:
-* Git
-* Bash
-* Pandas
-* Numpy
-* Matplotlib
-
----
-Курсы:
+Образование:
 * School21 by Sber
 
