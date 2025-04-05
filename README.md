@@ -7,3 +7,8 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/45/0c/24/450c24a5e30fc6b31c0919c5a8fcde56.gif" width="500"/>
 </div>
+<div id="badges">
+  <a href="https://t.me/o_nobody_o">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
