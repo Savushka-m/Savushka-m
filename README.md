@@ -12,3 +12,27 @@
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+---
+
+### 💻 My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavushkaM)](https://github.com/Mambulya/github-readme-stats)
+
+
+---
+Языки программирования:
+* Python
+* C++
+* C
+* Язык запросов SQL(SQLite)
+
+---
+Ключевые навыки:
+* Git
+* Bash
+* Pandas
+* Numpy
+* Matplotlib
+
+---
+Курсы:
+* School21 by Sber
