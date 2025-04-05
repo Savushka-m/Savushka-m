@@ -12,10 +12,11 @@
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+[![codewars](https://www.codewars.com/users/SavushkaM/badges/small)](https://www.codewars.com/users/username)
 ---
 
 ### 💻 My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavushkaM)](https://github.com/Mambulya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savushka-m)](https://github.com/Mambulya/github-readme-stats)
 
 
 ---
