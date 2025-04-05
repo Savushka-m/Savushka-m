@@ -6,4 +6,6 @@
 <br>В возрасте 18 лет открыл для себя сферу преподавания и с тех пор уже на протяжении 4 лет активно преподаю программирование.<br/>
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/82/a2/1e/82a21e9a4f28efa38aaa2edc40c9fa77.gif" width="250"/>
+  <img src="https://i.pinimg.com/originals/82/a2/1e/82a21e9a4f28efa38aaa2edc40c9fa77.gif" width="250"/>
+  <img src="https://i.pinimg.com/originals/82/a2/1e/82a21e9a4f28efa38aaa2edc40c9fa77.gif" width="250"/>
 </div>
