@@ -17,10 +17,7 @@
 [![codewars](https://www.codewars.com/users/SavushkaM/badges/small)](https://www.codewars.com/users/username)
 ---
 
-### 💻 My Stats :
-<a src="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savushka-m">
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savushka-m)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
