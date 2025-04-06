@@ -18,7 +18,9 @@
 ---
 
 ### 💻 My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savushka-m)](https://github.com/Savushka-m/github-readme-stats)
+<a src="https://github.com/Savushka-m/github-readme-stats">
+   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savushka-m">
+</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
