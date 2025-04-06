@@ -18,7 +18,7 @@
 ---
 
 ### 💻 My Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savushka-m)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savushka-m&layout=compact)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
