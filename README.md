@@ -17,7 +17,8 @@
 [![codewars](https://www.codewars.com/users/SavushkaM/badges/small)](https://www.codewars.com/users/username)
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savushka-m)](https://github.com/anuraghazra/github-readme-stats)
+### 💻 My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mambulya)](https://github.com/Mambulya/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
